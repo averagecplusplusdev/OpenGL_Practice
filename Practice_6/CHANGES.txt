@@ -1,0 +1,1 @@
+ugh im finally done with textures, im aware the code doesn't work so go debug it yourself.
